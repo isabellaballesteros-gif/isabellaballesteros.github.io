@@ -1,0 +1,141 @@
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+
+body {
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-top: 12px;
+    margin-bottom: 40px;
+}
+
+#header {
+  width: 100%;
+}
+
+p{
+  font-size: 15px;
+  font-family: 'Arvo';
+  background-color: white;
+   border-radius: 12px;
+  padding: 20px;
+}
+
+h5{
+  font-size: 30px;
+  font-family: 'Ubuntu';
+  color: black
+}
+
+h1{
+  font-size: 30px;
+  font-family: 'Ubuntu';
+  color: white;
+}
+h2{
+  font-size: 30px;
+  font-family: 'Ubuntu';
+  color: #1A49D7;
+}
+
+h3{
+  font-size: 20px;
+  font-family:'Ubuntu';
+  color: white;
+}
+
+.about {
+  background-color: #FCD811;
+  padding: 20px;
+  margin-bottom: 2px;
+}
+
+.robot {
+  background-color: #04268D;
+  padding: 20px;
+ 
+}
+
+.art{
+  background-color: #FFEB77;
+  padding: 20px;
+  margin-bottom: 2px;
+}
+
+.GIF{
+ background-color: #1A49D7;
+  padding: 20px;
+ 
+}
+
+.album{
+  background-color:#1A49D7 ;
+  padding: 20px;
+  
+}
+
+.cat{
+  background-color:#04268D;
+  padding: 20px;
+  
+}
+
+.water{
+   background-color: #04268D;
+  padding: 20px;
+  
+}
+
+.food{
+   background-color: #1A49D7;
+  padding: 20px;
+  
+}
+
+.final{
+  background-color:#04268D;
+  padding: 20px;
+ 
+}
+
+#blue{
+  color: blue;
+}
+.ponyo{
+  background-color: #1A49D7;
+  padding: 20px;
+ 
+}
+.sea{
+  background-color:#04268D;
+  padding: 20px;
+  
+}
+
+.bear{
+  background-color:#1A49D7;
+  padding: 20px;
+  margin-bottom: 4px;
+}
+
+#credits {
+  background-color: black;
+  padding: 20px;
+  border-radius: 12px;
+}
+h4{
+  font-size: 30px;
+  color: white;
+  font-family:'Ubuntu';
+}
+
+li{
+  color:white;
+  font-size: 18px;
+  padding: 10px;
+   font-family: 'Arvo';
+}
+p1{
+  color:#B00505;
+  font-family: 'Ubuntu';
+}
